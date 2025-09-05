@@ -1,4 +1,4 @@
-# Laravel 11 用於識別措辭或拼字錯誤的命令列工具
+# Laravel 12 用於識別措辭或拼字錯誤的命令列工具
 
 引入 peckphp 的 peck 套件來擴增用於識別措辭或拼字錯誤的命令列工具，可以自然地融入您的工作流程，利用 GNU 的開源拼字檢查程式 Aspell 的強大功能檢查您的程式碼基底每個角落。
 
@@ -28,5 +28,5 @@ $ ./vendor/bin/peck
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/HvakaG0.png)
+![](https://i.imgur.com/Rs928uU.png)
 > 檢查措辭或拼字錯誤
